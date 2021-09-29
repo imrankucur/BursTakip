@@ -1,0 +1,29 @@
+﻿
+.DropDownList {
+    border-color: black;
+    width: 155px;
+    height: 25px;
+    margin-left: 10px;
+   
+}
+
+.Label {
+    display: block;
+    font-size: larger;
+    text-align: center;
+    
+ }
+
+.Div{
+    
+    width:1619px;
+    
+
+}
+
+.DizaynStil {
+    margin-left: 20px;
+    margin-top:3px;
+    margin-bottom:3px;
+}
+
